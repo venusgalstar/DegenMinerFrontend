@@ -19,7 +19,7 @@ export const DEFAULT_MAX_TIER = 2;
 // export const NETWORK = "mainnet-beta";
 
 export const PROGRAM_ID = new PublicKey(
-  "FgyMJpHWhHsgdeNPnoyuRLcgqxcRihadnP2vtCJga9mn"
+  "ceeTXEdFsbQ27gbRrpuCFmHTzyXBykpt6tHjATW4B2t"
 );
 export const TREASURY = new PublicKey(
   "4RjfxYQC212Cah4rdPZZHvZPQXjs8DDXjtCsTP6TSpKc"
